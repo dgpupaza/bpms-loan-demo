@@ -1,6 +1,8 @@
 JBoss BPM Suite LoanApplication Demo
 ==================================
 
+![Picture](https://www.dropbox.com/s/9xwjbq3r1fiud0a/bpms-loan-demo.png)
+
 Install the application into JBoss BPM Suite
 --------------------------------------------
 
