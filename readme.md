@@ -4,7 +4,7 @@ JBoss BPM Suite LoanApplication Demo
 Install the application into JBoss BPM Suite
 --------------------------------------------
 
-Note: JBoss BPM Suite is already installed.
+Note: JBoss BPM Suite (can be downloaded from https://access.redhat.com/) is already installed.
 
 Before starting the installation add the loanOfficer role to the user which is used to login in Business Central.
 
